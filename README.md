@@ -18,7 +18,7 @@ The primary dataset used for this analysis is "sales_data.xlsx", which contains 
 ### Methodology
 For one to analyze the sales data, we already had cleaned sales data. We went ahead to perform Exploratory Data Analysis.
 ### Here, some major sales metrics were extracted using:
-Sales by Month: Studying the sales trend per month
+-Sales by Month: Studying the sales trend per month
 -Sales by Manager: Understanding the top-performing manager 
 -Sales by Store: Studying the performance of stores
 -Sales by Product Category: Analyzing which products garnered more or less sales
